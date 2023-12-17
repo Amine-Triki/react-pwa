@@ -12,8 +12,8 @@ const projects = [
     {
       category: 'React',
       title: 'Weather Website',
-      description: 'React + vite + BOOTSTRAP + PWA',
-      link: 'https://amine-triki.github.io/wather-react-pwa/',
+      description: 'React +  BOOTSTRAP + PWA',
+      link: 'https://pwa.aminetriki.com.tn/',
       imageSrc: Img10,
     },
     {

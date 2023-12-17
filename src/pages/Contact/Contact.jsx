@@ -16,6 +16,7 @@ const Contact = () => {
     
     <main>
       <Helmet>
+      <link rel="icon" href="/public/favicon.ico" />
         <title>Contact Me</title>
       </Helmet> 
       <section className=" text-center pt-5 pb-5" id="Contact">

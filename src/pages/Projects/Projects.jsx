@@ -14,6 +14,7 @@ const Projects = () => {
   return (
     <main>
       <Helmet>
+      <link rel="icon" href="/public/favicon.ico" />
         <title>My Projsects</title>
       </Helmet> 
       <section className="text-center pt-5 pb-5">

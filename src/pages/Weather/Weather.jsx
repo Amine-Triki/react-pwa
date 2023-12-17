@@ -32,6 +32,7 @@ const Weather = () => {
   return (
     <main className="d-flex justify-content-center align-items-center">
       <Helmet>
+      <link rel="icon" href="/public/favicon.ico" />
         <title>Weather</title>
       </Helmet> 
       {data.current ? (
