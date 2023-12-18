@@ -14,7 +14,7 @@ const home = () => {
   return (
     <main className="  d-flex justify-content-center align-items-center">
       <Helmet>
-      <link rel="icon" href="/public/favicon.ico" />
+      <link rel="icon" href="../../../public/favicon.ico" />
         <title>Home</title>
       </Helmet> 
       <section className="landing ">
